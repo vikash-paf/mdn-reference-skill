@@ -1,0 +1,8 @@
+# MDN Web Standards Reference
+
+When asked about browser features, compatibility, modern web APIs, or to implement frontend logic, you MUST follow these guidelines:
+
+1. **Read the core workflow:** Review `skills/mdn-reference/SKILL.md` to understand the verification and decision logic.
+2. **Understand Baseline:** Read `skills/mdn-reference/references/baseline.md` to understand the Web's "Baseline" interoperability metric.
+3. **Use Modern Patterns:** Read `skills/mdn-reference/references/patterns.md` for common high-performance browser patterns.
+4. **Compatibility Reporting:** Always include the "Forensic Compatibility" block as described in the core workflow when providing code snippets.
